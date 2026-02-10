@@ -1,0 +1,12 @@
+in this proyect we need:
+- an enviroment. for create a venv:
+     python3 -m venv venv
+    source venv/bin/activate
+
+when we have our venv active, we have to install streamlist
+
+     pip install streamlit scikit-learn
+
+
+for use:
+     streamlit run dashboard.py

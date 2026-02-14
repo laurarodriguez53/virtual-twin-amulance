@@ -5,7 +5,7 @@ in this proyect we need:
 
 when we have our venv active, we have to install streamlist
 
-     pip install streamlit scikit-learn
+    pip install streamlit folium scikit-learn pandas streamlit-folium
 
 
 for use:

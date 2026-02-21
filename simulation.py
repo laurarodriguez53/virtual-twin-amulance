@@ -1,3 +1,5 @@
+# simulation.py
+
 def simulate_future(state, minutes=10):
     future = state.copy()
     future["fuel"] = max(future["fuel"] - minutes*1.2, 0)

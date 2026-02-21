@@ -1,4 +1,5 @@
 # decision.py
+
 from events import event_manager
 
 def handle_critical_anomaly(data):

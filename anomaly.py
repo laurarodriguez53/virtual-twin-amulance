@@ -1,4 +1,5 @@
 # anomaly.py
+
 from events import event_manager
 def detect_anomalies(state):
     anomalies = []
